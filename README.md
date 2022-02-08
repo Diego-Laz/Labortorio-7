@@ -2,7 +2,7 @@
 
 # Fundamentos de Circuitos Eléctricos 
 # NRC:10151
-# Laboratorio 6
+# Laboratorio 7
 
  # Integrantes:
  
