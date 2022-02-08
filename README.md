@@ -244,8 +244,13 @@ se refiere al voltaje de corriente directa que produce la misma cantidad de calo
 
 VIDEOS:
 
+https://www.youtube.com/watch?v=Sqv39t_ceRw
 
 CONCLUSIONES:
+
+-Durante el presente laboratorio pudimos observar el como se utiliza un oscilometro y la importancia de las ondas sinusoidales al momento de buscar los valores pico de un circuito tambien llegaremos a ver que los valores de voltaje y corriente tambien van a variar debido a estas mismas ondas sinusoidales
+
+-Estudiamos tambien el concepto de los capacitores y de las bobinas para asi obtener una mejor comprension de estos y porque ayudan a la interpretacion de un circuito y manejar cuidadosamente los valores de voltaje y corriente
 
 BIBLIOGRAFÍA:
 
